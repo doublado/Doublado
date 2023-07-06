@@ -7,7 +7,7 @@
 
 - 📖 I’m currently learning : - **C++, C#, C, HTML, CSS, JS and other programming languages**
 
-- 📫 Contact me on Discord : - [**Doublado#9999**](https://discord.com/users/230666866299895808/)
+- 📫 Contact me on Discord : - [**Doublado#9999**](https://discord.com/users/1053045016618074182/)
 
 <br>
 
