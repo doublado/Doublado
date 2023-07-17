@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doublado&label=Profile%20views&color=0e75b6&style=flat" alt="doublado" /> </p>
 
-- 🛠️ I’m currently working on : - **Atheria Anti-Cheat**
-
 - 📖 I’m currently learning : - **C++, C#, C, HTML, CSS, JS and other programming languages**
 
 - 📫 Contact me on Discord : - [**doublado**](https://discord.com/users/1053045016618074182/)
