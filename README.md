@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [**Doublado.com**](https://doublado.com/)<br>🌱 I’m currently learning [Go/Golang](https://go.dev/)
+🔭 I’m currently working on [**doublado.com**](https://doublado.com/)<br>🌱 I’m currently learning [Go/Golang](https://go.dev/)
 
 
 ## 🌐 Socials:
